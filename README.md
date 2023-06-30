@@ -9,7 +9,7 @@ This dataset consists of about 1 million tracks from 2000 to 2023 and sort of de
 To create the necessary data model for doing analysis tables were extracted by using Excel.
 
 # Spotify Overview Dashboard (Power BI)
-At the final of this project, I created one paged dashboard "Spotify Overview" which shows the key points of Spotify.
+At the final of this project, I created one paged dashboard "Spotify Overview" which shows the key points of the Spotify App.
 
 # Below is the link to the interactive Power BI Dashboard: 
 https://app.powerbi.com/view?r=eyJrIjoiM2U1MzhmOGEtNjc4My00OGQ4LWE0NWMtNTg0YjU0ZDAzMzk2IiwidCI6ImI2MjU0NDYxLTc4YWItNDYxOS1iZGZiLTliNWYzMjUyMjQ4YSIsImMiOjl9
