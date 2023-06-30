@@ -1,4 +1,4 @@
-# SpotifyOverview_DataAnalysisProject_via_Excel_PowerBI
+# SpotifyOverview_DataAnalystProject_via_Excel_PowerBI
 # Business Request
 As a data analyst who loves to listen to music by using Spotify App, I wanted to show an overview of Spotify’s Data as a Dashboard.
 I used the Spotify_1Millon_Tracks dataset which was extracted from the Spotify platform using the Python library “Spotify”, which allows users to access music data provide via APIs.
